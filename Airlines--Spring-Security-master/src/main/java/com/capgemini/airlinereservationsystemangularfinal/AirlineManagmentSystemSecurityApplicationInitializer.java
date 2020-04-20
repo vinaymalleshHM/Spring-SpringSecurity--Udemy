@@ -1,0 +1,8 @@
+package com.capgemini.airlinereservationsystemangularfinal;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+public class AirlineManagmentSystemSecurityApplicationInitializer extends
+AbstractSecurityWebApplicationInitializer {
+
+}
